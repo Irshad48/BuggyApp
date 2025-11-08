@@ -1,6 +1,5 @@
 ﻿using BuggyAppAPI.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
 
 
 namespace BuggyAppAPI.Data
