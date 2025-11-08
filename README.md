@@ -1,8 +1,8 @@
-Instructions
-Used EF to create tables and Seed data
-create  db  with BuggyAppDB
-Change connectionstring according to your local
-Push the migration tables and data will be inserted
+Instructions: - 
+Used EF to create tables and Seed data,
+create  db  with BuggyAppDB,
+Change connectionstring according to your local,
+Push the migration tables and data will be inserted,
 Run the project and use below Urls
 
 API - 
