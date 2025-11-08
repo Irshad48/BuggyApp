@@ -5,10 +5,9 @@ Change connectionstring according to your local,
 Push the migration tables and data will be inserted,
 Run the project and use below Urls
 
-API - 
+After successful running API project on local URL will be like - 
 https://localhost:5001/swagger/index.html
-UI - 
-https://localhost:5001/index.html
+
 
 
 Screenshots: - 
